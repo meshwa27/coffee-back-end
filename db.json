@@ -1,0 +1,651 @@
+{
+    "product": [
+      {
+        "id": "18",
+        "name": "Almond Afterlife Coffee",
+        "description": "Indulge in the rich flavor of our Almond Afterlife Coffee. Made from the finest beans and infused with the nutty essence of almonds, this coffee is a delightful treat for your taste buds.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_14oz_Ground_Angle_DTC_A1.jpg?v=1711109300&width=533",
+        "regular_price": "19.99",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "19",
+        "name": "Almond Afterlife Single-Serve Pods",
+        "description": "Experience the convenience and flavor of our Almond Afterlife Single-Serve Pods. Each pod is filled with the delicious taste of almond-infused coffee, perfect for enjoying on-the-go.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_10ct_Angle_Vertical_Pods_DTC_A1.jpg?v=1711109474&width=533",
+        "regular_price": "15.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "20",
+        "name": "Dark Roast Coffee",
+        "description": "Awaken your senses with our Dark Roast Coffee. Bold and robust, this coffee delivers a powerful flavor and a smooth finish, perfect for starting your day off right.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_16oz_Ground_Angle_A1-_3.jpg?v=1707501545&width=533",
+        "regular_price": "19.99",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "21",
+        "name": "Dark Roast Single-Serve Pods",
+        "description": "Enjoy the bold flavor of our Dark Roast Single-Serve Pods. Each pod is filled with rich, aromatic coffee, perfect for brewing a quick and satisfying cup anytime, anywhere.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_10ct_Angle_Vertical_Pods_A1-_2_80a7a931-d037-40d3-a7aa-0a05df7f2e6f.jpg?v=1707502124&width=533",
+        "regular_price": "14.99",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "22",
+        "name": "Chocolate Hazelnut Coffee",
+        "description": "Indulge in the decadent flavor of our Chocolate Hazelnut Coffee. Made with rich cocoa and hazelnut, this coffee is a deliciously satisfying treat for any time of day.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_14oz_Ground_Angle_A1_963d87a8-ec42-42fb-8b8d-8e21d32ff6d2.jpg?v=1707505386&width=533",
+        "regular_price": "19.99",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "23",
+        "name": "Chocolate Hazelnut Single-Serve Pods",
+        "description": "Experience the indulgent flavor of our Chocolate Hazelnut Single-Serve Pods. Each pod is filled with the rich taste of chocolate and hazelnut, perfect for a luxurious coffee break.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_10ct_Angle_Vertical_Pods_A1_097b3690-6705-45ca-afa8-1b3ffa652157.jpg?v=1707505489&width=533",
+        "regular_price": "15.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "24",
+        "name": "Medium Roast Coffee",
+        "description": "Savor the balanced flavor of our Medium Roast Coffee. With its smooth taste and enticing aroma, this coffee is perfect for any occasion, whether you're starting your day or winding down.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_16oz_Ground_Angle_A1_8f8a7b97-f418-4bc8-bfcd-bd551950b3b3.jpg?v=1707502500&width=533",
+        "regular_price": "19.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "25",
+        "name": "Medium Roast Single-Serve Pods",
+        "description": "Experience the rich flavor of our Medium Roast Single-Serve Pods. Each pod is filled with delicious, aromatic coffee, perfect for a quick and convenient cup anytime, anywhere.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_10ct_Angle_Vertical_Pods_A1_97237db9-e69a-418f-b5da-ac7e01acb8ec.jpg?v=1707502646&width=533",
+        "regular_price": "14.99",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "26",
+        "name": "Blue and Buried Coffee",
+        "description": "Embark on a flavor adventure with our Blue and Buried Coffee. Made with premium beans and a hint of mystery, this coffee is sure to intrigue and delight your taste buds.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Blue_and_Buried_Ground_Angle_A1_5be9cffc-ed75-46b2-af52-4e0b08dd92f2.jpg?v=1707504782&width=533",
+        "regular_price": "19.99",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "27",
+        "name": "Blue and Buried Single-Serve Pods",
+        "description": "Experience the mystery and excitement of our Blue and Buried Single-Serve Pods. Each pod is filled with bold, flavorful coffee, perfect for satisfying your curiosity and your caffeine craving.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Blue_and_Buried_10ct_Angle_Vertical_Pods_A1_8fa5232a-e828-4884-af5c-2f9e1a28da10.jpg?v=1707504864&width=533",
+        "regular_price": "15.99",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "28",
+        "name": "Espresso Roast Coffee",
+        "description": "Enjoy the bold and intense flavor of our Espresso Roast Coffee. Made with premium beans and expertly roasted, this coffee is perfect for espresso lovers who crave a rich, satisfying cup.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_14oz_Ground_Angle_A1_b1e21a42-82de-4fc0-8f67-c3a3644622b6.jpg?v=1707502254&width=533",
+        "regular_price": "19.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "29",
+        "name": "Espresso Roast Single-Serve Pods",
+        "description": "Experience the bold flavor of our Espresso Roast Single-Serve Pods. Each pod is filled with rich, aromatic coffee, perfect for brewing a quick and satisfying espresso shot anytime, anywhere.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_10ct_Angle_Vertical_A1_4c1255f8-be18-4c92-9970-4bf4cfaefc28.jpg?v=1707502393&width=533",
+        "regular_price": "14.99",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "30",
+        "name": "Dark Spirits Chocolate Rum Ball",
+        "description": "Indulge in the decadent flavor of our Dark Spirits Chocolate Rum Ball. Made with rich chocolate and infused with a hint of rum, these chocolate treats are perfect for satisfying your sweet tooth.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Spirits_Chocolate_Rum_Ball_A1-_1.jpg?v=1707505768&width=533",
+        "regular_price": "14.99",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "31",
+        "name": "Dark Roast Espresso Capsules",
+        "description": "Experience the bold flavor of our Dark Roast Espresso Capsules. Each capsule is filled with rich, intense espresso, perfect for brewing a satisfying shot at home or on the go.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark-Roast-Espresso-Capsule_b771ec96-b91b-4945-9189-7c707e43a1bc.jpg?v=1707501877&width=533",
+        "regular_price": "12.99",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "32",
+        "name": "Dark Roast Instant Coffee",
+        "description": "Enjoy the rich flavor of our Dark Roast Instant Coffee. Made from premium beans and expertly blended, this instant coffee delivers a bold and satisfying cup every time.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Instant_8ct_Stick_Angle_A2-_1.jpg?v=1707501896&width=533",
+        "regular_price": "11.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "33",
+        "name": "Vanilla Coffee",
+        "description": "Indulge in the smooth and creamy flavor of our Vanilla Coffee. Made with premium beans and a hint of vanilla, this coffee is a delightful treat for any time of day.",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Vanilla_14oz_Ground_Angle_A1_40a88ad7-b803-4ab4-a753-ce4d2b56f764.jpg?v=1707504956&width=533",
+        "regular_price": "19.99",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "34",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/products/Cemex-108.jpg?v=1666105554",
+        "name": "6 Cup Chemex (with filter)",
+        "description": "Add a touch of retro style to your drinkware collection with our Flavor Fiends Soda Can Glass Set. Featuring vibrant colors and a fun soda can design, these glasses are perfect for enjoying your favorite beverages in style.",
+        "regular_price": "70.00",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "35",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-205_1.jpg?v=1709571198&width=533",
+        "name": "Core classic logo tee",
+        "description": "Experience the convenience and flavor of our Almond Afterlife Single-Serve Pods. Each pod is filled with the delicious taste of almond-infused coffee, perfect for enjoying on-the-go.",
+        "regular_price": "15.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "36",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Valhalla_Java_Espresso_Roast_Death_Cup_Bundle_28d5e09c-1e2c-4f91-94cc-efb3dac9da61.jpg?v=1707504447&width=533",
+        "name": "Classic Logo Windbreaker",
+        "description": "Stay stylish and comfortable in any weather with our Classic Logo Windbreaker. Featuring our iconic logo and made from durable materials, this windbreaker is perfect for outdoor adventures or casual wear.",
+        "regular_price": "60.00",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "37",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_RaglanCreamators_Front_Web.jpg?v=1712240420&width=533",
+        "name": "Creamators raglan",
+        "description": "Embrace the darkness with our Shadow Windbreaker. Sleek and stylish, this windbreaker features a subtle design and lightweight construction, making it perfect for everyday wear or outdoor activities.",
+        "regular_price": "60.00",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "d14b",
+        "name": "Almond Afterlife Coffee",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_14oz_Ground_Angle_DTC_A1.jpg?v=1711109300&width=533",
+        "regular_price": "19.99",
+        "description": "Indulge in the rich flavor of our Almond Afterlife Coffee. Made from the finest beans and infused with the nutty essence of almonds, this coffee is a delightful treat for your taste buds.",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;",
+        "rating": "3"
+      }
+    ],
+    "cart": [
+      {
+        "id": "6c40",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_16oz_Ground_Angle_A1_8f8a7b97-f418-4bc8-bfcd-bd551950b3b3.jpg?v=1707502500&width=533",
+        "name": "Medium Roast Coffee",
+        "regular_price": "19.99",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "550f",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_14oz_Ground_Angle_DTC_A1.jpg?v=1711109300&width=533",
+        "name": "Almond Afterlife Coffee",
+        "regular_price": "19.99",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "9e25",
+        "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_14oz_Ground_Angle_DTC_A1.jpg?v=1711109300&width=533",
+        "name": "Almond Afterlife Coffee",
+        "regular_price": "19.99",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      }
+    ],
+    "mearch": [
+      {
+        "id": "38",
+        "name": "Sacred Bloom Towel and Oven Mitt",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_OvenMitt_Towel_OvenMitt_TowelWide_Web.jpg?v=1713445547&width=533",
+        "price": "28.00",
+        "description": "Perfect for your kitchen needs, this Sacred Bloom Towel and Oven Mitt set adds a touch of style while keeping your hands safe from hot surfaces.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "39",
+        "name": "Sacred Bloom Swedish Rag Set",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_SwedishRags_Front_Web.jpg?v=1713210321&width=533",
+        "price": "12.00",
+        "description": "Add some flair to your cleaning routine with this Swedish Rag Set, featuring the Sacred Bloom design.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "40",
+        "name": "Daily Grind Long Sleeve",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_ArtistSeries_LongSleeve_Front_Web.jpg?v=1712685087&width=533",
+        "price": "45.00",
+        "description": "Stay cozy and stylish in this Daily Grind Long Sleeve shirt, featuring artwork from our Artist Series.",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "41",
+        "name": "Daily Grind Black Skateboard Deck",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_black_Bottom_Web.jpg?v=1712685501&width=533",
+        "price": "70.00",
+        "description": "Take your skateboarding to the next level with this sleek black Daily Grind Skateboard Deck.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "42",
+        "name": "Daily Grind Pink Skateboard Deck",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_Pink_Bottom_Web_12b02d3b-a455-479f-8c90-3065725558cc.jpg?v=1713289700&width=533",
+        "price": "70.00",
+        "description": "Show off your style at the skate park with this vibrant pink Daily Grind Skateboard Deck.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "43",
+        "name": "Flavor Fiends Soda Can Glass Set",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_SodaGlasses_107_Web.jpg?v=1712843654&width=533",
+        "price": "44.00",
+        "description": "Enjoy your favorite beverages in style with this Flavor Fiends Soda Can Glass Set, perfect for any occasion.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "44",
+        "name": "Klean Kanteen Straw 2-Pack",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Straws_Package_Front_Web.jpg?v=1712599722&width=533",
+        "price": "8.00",
+        "description": "Reduce waste and sip sustainably with this Klean Kanteen Straw 2-Pack, perfect for on-the-go hydration.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "45",
+        "name": "Creamators Raglan",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_RaglanCreamators_Front_Web.jpg?v=1712240420&width=533",
+        "price": "35.00",
+        "description": "Stay comfortable and stylish with this Creamators Raglan, featuring a unique design for coffee lovers.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "46",
+        "name": "Pitch Black Raglan",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_RaglanPB_Front_Web.jpg?v=1712240718&width=533",
+        "price": "35.00",
+        "description": "Embrace the dark side with this Pitch Black Raglan, perfect for those who appreciate bold style.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "47",
+        "name": "Cold Hearted Cooler & Koozie Bundle",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_CoolerandKoozie_Front_Web.jpg?v=1712250430&width=533",
+        "price": "30.00",
+        "description": "Keep your drinks cold and your hands warm with this Cold Hearted Cooler & Koozie Bundle, perfect for outdoor adventures.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "48",
+        "name": "Benchwarmer Slim Can Koozie",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Koozie_Front_Web_2.jpg?v=1712249688&width=533",
+        "price": "7.00",
+        "description": "Stay cool and stylish with this Benchwarmer Slim Can Koozie, designed to keep your beverage cold and your hands dry.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "49",
+        "name": "Eagle Crest Bandana",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Rebellious-156_1.jpg?v=1711647870&width=533",
+        "price": "15.00",
+        "description": "Add a touch of rebellion to your style with this Eagle Crest Bandana, perfect for any outdoor adventure.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "50",
+        "name": "Classic Logo Windbreaker",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/products/Deathmas-135.jpg?v=1675697100&width=533",
+        "price": "60.00",
+        "description": "Stay protected from the elements in style with this Classic Logo Windbreaker, featuring our iconic logo.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "51",
+        "name": "Shadow Windbreaker",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_March_Product_WindbreakerFront_Web.jpg?v=1710788756&width=533",
+        "price": "60.00",
+        "description": "Embrace the shadows with this Shadow Windbreaker, perfect for adding a touch of mystery to your look.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "52",
+        "name": "2024 Death Wish Coffee Mug",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/2024UrnMug-101.jpg?v=1702928309&width=533",
+        "price": "38.00",
+        "description": "Start your day off right with this 2024 Death Wish Coffee Mug, featuring a unique design that's sure to make a statement.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "53",
+        "name": "Pitch Black Pour Over",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Ceramic-PourOver-117.jpg?v=1706043346&width=533",
+        "price": "25.00",
+        "description": "Brew the perfect cup of coffee with this Pitch Black Pour Over, designed for coffee enthusiasts who appreciate quality and style.",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "54",
+        "name": "Rise & Grinder",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/HandGrinder_150.jpg?v=1695057452&width=533",
+        "price": "25.00",
+        "description": "Grind your coffee beans to perfection with this Rise & Grinder, perfect for coffee lovers who prefer freshly ground coffee.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "55",
+        "name": "Society of Strong Mug",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Mug_Front_057_Web-_1.jpg?v=1708094955&width=533",
+        "price": "38.00",
+        "description": "Show your strength with this Society of Strong Mug, perfect for enjoying your favorite brew while embracing your inner power.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "56",
+        "name": "Shadow Logo Tee",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Tonal-100_1_266d3e9d-19e8-4612-a3a3-0428acfa831d.jpg?v=1709568347&width=533",
+        "price": "26.00",
+        "description": "Add some mystery to your wardrobe with this Shadow Logo Tee, featuring our iconic logo in a subtle tonal print.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "57",
+        "name": "Core Classic Logo Tee",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-205_1.jpg?v=1709571198&width=533",
+        "price": "26.00",
+        "description": "Keep it classic with this Core Classic Logo Tee, featuring our iconic logo in a timeless design.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "58",
+        "name": "Society Insignia Hat",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Hat_Front_063_Web-_1.jpg?v=1708094929&width=533",
+        "price": "25.00",
+        "description": "Top off your look with this Society Insignia Hat, featuring the emblem of the Society of Strong.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "59",
+        "name": "Anthony Alfredo No. 62 Snapback",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_February24_Snapback_Web.jpg?v=1707316480&width=533",
+        "price": "35.00",
+        "description": "Sport a classic look with this Anthony Alfredo No. 62 Snapback, perfect for any fan of the iconic driver.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "60",
+        "name": "Sacred Truth Work Jacket",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Jacket_Front_045_Web_712b1fec-946f-428c-b35c-475e7c627c18.jpg?v=1705614243&width=533",
+        "price": "125.00",
+        "description": "Stay warm and stylish with this Sacred Truth Work Jacket, featuring the emblem of the Society of Strong.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "61",
+        "name": "Society Insignia Hoodie",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Hoodie_Front_039_Web_080b5515-f213-471a-8758-14def08a675c.jpg?v=1705614139&width=533",
+        "price": "45.00",
+        "description": "Stay cozy and show your allegiance with this Society Insignia Hoodie, featuring the emblem of the Society of Strong.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "62",
+        "name": "Society Insignia Tee",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Shirt_Front_036_Web_bc22a5e1-2287-4088-bb39-58d99738cb4d.jpg?v=1705614173&width=533",
+        "price": "30.00",
+        "description": "Join the Society of Strong in style with this Insignia Tee, showcasing the emblem of strength and unity.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "63",
+        "name": "Classic Logo Crewneck",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/products/FathersDay-311_1.jpg?v=1675697254&width=533",
+        "price": "45.00",
+        "description": "Stay cozy and on-trend with this Classic Logo Crewneck, featuring our iconic logo in a classic design.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "64",
+        "name": "Classic Henley",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Henley-154.jpg?v=1700576521&width=533",
+        "price": "45.00",
+        "description": "Elevate your casual wardrobe with this Classic Henley, perfect for layering or wearing on its own.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "65",
+        "name": "Fortune Teller Tankard",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Fortune_Teller_Tankard_100.jpg?v=1697204726&width=533",
+        "price": "46.00",
+        "description": "Sip your favorite brews in mystic style with this Fortune Teller Tankard, adorned with intricate fortune telling designs.",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "66",
+        "name": "Fortune Teller Long Sleeve",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Fortune_Teller_Long_Sleeve_110.jpg?v=1697469519&width=533",
+        "price": "25.00",
+        "description": "Embrace the enigmatic with this Fortune Teller Long Sleeve shirt, featuring captivating artwork inspired by fortune telling.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "67",
+        "name": "Crossbones Klean Kanteen Mug",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/products/MetalCore-101.jpg?v=1674569558&width=533",
+        "price": "25.00",
+        "description": "Stay hydrated with an edge using this Crossbones Klean Kanteen Mug, perfect for enjoying your favorite beverages.",
+        "rating": "4",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+      },
+      {
+        "id": "68",
+        "name": "Klean Kanteen Camping Bundle",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Mothman-227.jpg?v=1691774076&width=533",
+        "price": "60.00",
+        "description": "Gear up for your next adventure with the Klean Kanteen Camping Bundle, featuring everything you need for hydration on-the-go.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "69",
+        "name": "Classic Logo Hoodie",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-193.jpg?v=1683134398&width=533",
+        "price": "45.00",
+        "description": "Stay warm and stylish with this Classic Logo Hoodie, showcasing our iconic logo in a comfortable and versatile design.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "70",
+        "name": "The Classic Kanteen",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/products/Kanteen-100.jpg?v=1679937513&width=533",
+        "price": "40.00",
+        "description": "Keep your drinks hot or cold on-the-go with The Classic Kanteen, a durable and stylish solution for all your hydration needs.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "71",
+        "name": "The Mug Warmer",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/products/MugWarmer-119.jpg?v=1650638646&width=533",
+        "price": "32.00",
+        "description": "Keep your favorite brews at the perfect temperature with The Mug Warmer, essential for any coffee connoisseur.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "72",
+        "name": "Ripstop Reusable Tote",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/ReusableTote-Black.jpg?v=1692756618&width=533",
+        "price": "15.00",
+        "description": "Reduce waste in style with this Ripstop Reusable Tote, perfect for groceries, trips to the beach, and everyday use.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "73",
+        "name": "Classic Logo Zip Hoodie",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-213.jpg?v=1683135190&width=533",
+        "price": "45.00",
+        "description": "Stay warm and comfortable in any weather with this Classic Logo Zip Hoodie, featuring our iconic logo in a convenient zip-up design.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "74",
+        "name": "Dark Roast Flannel",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Flannel_101.jpg?v=1697817369&width=533",
+        "price": "45.00",
+        "description": "Stay cozy and rugged with this Dark Roast Flannel, perfect for outdoor adventures or cozy nights by the fire.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "75",
+        "name": "Dark Roast Flannel Pants",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Flannel_Pants_106.jpg?v=1697817557&width=533",
+        "price": "45.00",
+        "description": "Relax in style with these Dark Roast Flannel Pants, perfect for lounging around the house or running errands.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "76",
+        "name": "Medium Roast Flannel",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Flannel_110.jpg?v=1697817500&width=533",
+        "price": "45.00",
+        "description": "Find the perfect balance of comfort and style with this Medium Roast Flannel, perfect for everyday wear.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "77",
+        "name": "Classic Snapback",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/ClassicSnapback-115.jpg?v=1695757070&width=533",
+        "price": "25.00",
+        "description": "Top off any outfit with this Classic Snapback, featuring our iconic logo and a timeless design.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "78",
+        "name": "Classic Dad Hat",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dad_Hat_100.jpg?v=1698248414&width=533",
+        "price": "25.00",
+        "description": "Keep it casual and cool with this Classic Dad Hat, perfect for sunny days and laid-back vibes.",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "79",
+        "name": "Classic Long Sleeve",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-200.jpg?v=1683134634&width=533",
+        "price": "30.00",
+        "description": "Stay comfortable and stylish with this Classic Long Sleeve shirt, perfect for layering or wearing on its own."
+      },
+      {
+        "id": "80",
+        "name": "No Sleep Sweatpants",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/No_Sleep_Sweatpants_110.jpg?v=1696860913&width=533",
+        "price": "43.00",
+        "description": "Relax in comfort and style with these No Sleep Sweatpants, perfect for lounging at home or running errands.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "81",
+        "name": "Shadow Logo Hoodie",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Shadow_Logo_Hoodie_1.jpg?v=1696518928&width=533",
+        "price": "40.00",
+        "description": "Stay cozy and on-trend with this Shadow Logo Hoodie, featuring a sleek design and comfortable fit.",
+        "rating": "1",
+        "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "82",
+        "name": "It's Black and White Striped Tee",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/StripedTee-1.jpg?v=1693415096&width=533",
+        "price": "26.00",
+        "description": "Make a bold statement with this Black and White Striped Tee, featuring a timeless design and comfortable fit.",
+        "rating": "2",
+        "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+      },
+      {
+        "id": "83",
+        "name": "Bolt Board Shorts",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Beach-100.jpg?v=1687265417&width=533",
+        "price": "36.00",
+        "description": "Hit the beach in style with these Bolt Board Shorts, featuring a comfortable fit and eye-catching design.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      },
+      {
+        "id": "84",
+        "name": "Classic Pocket Tee",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-209.jpg?v=1683134861&width=533",
+        "price": "33.00",
+        "description": "Stay cool and casual with this Classic Pocket Tee, featuring a convenient pocket and comfortable fit.",
+        "rating": "5",
+        "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+      },
+      {
+        "id": "85",
+        "name": "Shadow Canister",
+        "image": "https://www.deathwishcoffee.com/cdn/shop/files/Tonal-116.jpg?v=1683730394&width=533",
+        "price": "30.00",
+        "description": "Store your favorite brews in style with this Shadow Canister, perfect for keeping your coffee fresh and flavorful.",
+        "rating": "3",
+        "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+      }
+    ]
+  }
